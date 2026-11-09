@@ -1,0 +1,29 @@
+# Python sanal ortamları (kesinlikle yüklenmemeli)
+venv/
+**/venv/
+env/
+ENV/
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac sistemi dosyaları
+.DS_Store
+**/.DS_Store
+
+# Flutter derleme dosyaları
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# Gizli bilgiler ve ortam değişkenleri
+.env
+
+# Kod dışı kişisel/taslak dosyalar ve geçici test görselleri
+*di*er dosyalar*/
+images/
+main.py
+ProjeOdev/

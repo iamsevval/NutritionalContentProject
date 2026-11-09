@@ -1,0 +1,1100 @@
+[
+    {
+        "id": "1",
+        "name": "Eti Puf Kakao",
+        "image": "https://ui-avatars.com/api/?name=Eti%20Puf%20Kakao&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "30/100",
+            "saglik_yorumu": "Çok yüksek oranda şeker, palm yağı ve karbonhidrat içerir.",
+            "alerjenler": [
+                "Gluten",
+                "Süt",
+                "Soya"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Buğday Unu (Gluten)",
+                    "oran_yuzde": "35",
+                    "miktar_g": "35"
+                },
+                {
+                    "bilesen": "Şeker (İlave)",
+                    "oran_yuzde": "30",
+                    "miktar_g": "30"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Palm, Ayçiçek)",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Kakao Tozu",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "İnvert Şeker Şurubu",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Yağsız Süttozu",
+                    "oran_yuzde": "3",
+                    "miktar_g": "3"
+                },
+                {
+                    "bilesen": "Soya Lesitini (Emülgatör)",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Aroma Vericiler (Vanilin)",
+                    "oran_yuzde": "0.5",
+                    "miktar_g": "0.5"
+                }
+            ],
+            "besinler": {
+                "kalori": 450,
+                "karbonhidrat": 70,
+                "protein": 5,
+                "yag": 15,
+                "seker": 35
+            }
+        }
+    },
+    {
+        "id": "2",
+        "name": "Ülker Çikolatalı Gofret",
+        "image": "https://ui-avatars.com/api/?name=%C3%9Clker%20%C3%87ikolatal%C4%B1%20Gofret&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "25/100",
+            "saglik_yorumu": "Yüksek ilave şeker ve doymuş yağ içerir.",
+            "alerjenler": [
+                "Gluten",
+                "Süt",
+                "Soya",
+                "Yer Fıstığı Püresi"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Şeker",
+                    "oran_yuzde": "40",
+                    "miktar_g": "40"
+                },
+                {
+                    "bilesen": "Buğday Unu",
+                    "oran_yuzde": "20",
+                    "miktar_g": "20"
+                },
+                {
+                    "bilesen": "Tam Hidrojenize Bitkisel Yağ (Palm)",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Fındık Püresi",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Kakao Yağı",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Peyniraltı Suyu Tozu",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Soya Lesitini",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                },
+                {
+                    "bilesen": "Poligliserol Polirisinoleat (E476)",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                }
+            ],
+            "besinler": {
+                "kalori": 520,
+                "karbonhidrat": 60,
+                "protein": 6,
+                "yag": 28,
+                "seker": 45
+            }
+        }
+    },
+    {
+        "id": "3",
+        "name": "Dardanel Ton Balığı",
+        "image": "https://ui-avatars.com/api/?name=Dardanel%20Ton%20Bal%C4%B1%C4%9F%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Konserve",
+            "saglik_puani": "85/100",
+            "saglik_yorumu": "Yüksek protein, sağlıklı Omega-3 yağ asitleri kaynağı.",
+            "alerjenler": [
+                "Balık Ürünleri"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Ton Balığı (Skipjack)",
+                    "oran_yuzde": "70",
+                    "miktar_g": "70"
+                },
+                {
+                    "bilesen": "Ayçiçek Yağı",
+                    "oran_yuzde": "28",
+                    "miktar_g": "28"
+                },
+                {
+                    "bilesen": "Deniz Tuzu",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 180,
+                "karbonhidrat": 0,
+                "protein": 24,
+                "yag": 9,
+                "seker": 0
+            }
+        }
+    },
+    {
+        "id": "4",
+        "name": "Züber Fıstık Ezmeli Meyve Tatlısı",
+        "image": "https://ui-avatars.com/api/?name=Z%C3%BCber%20F%C4%B1st%C4%B1k%20Ezmeli%20Meyve%20Tatl%C4%B1s%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "90/100",
+            "saglik_yorumu": "Doğal meyve şekerleri içerir, ilave şeker ve gluten barındırmaz.",
+            "alerjenler": [
+                "Yer Fıstığı"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Hurma",
+                    "oran_yuzde": "50",
+                    "miktar_g": "50"
+                },
+                {
+                    "bilesen": "Kavrulmuş Yer Fıstığı",
+                    "oran_yuzde": "35",
+                    "miktar_g": "35"
+                },
+                {
+                    "bilesen": "Kakao Kitlesi",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Hindiba Kökü Lifi (İnülin)",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                }
+            ],
+            "besinler": {
+                "kalori": 380,
+                "karbonhidrat": 45,
+                "protein": 12,
+                "yag": 15,
+                "seker": 30
+            }
+        }
+    },
+    {
+        "id": "5",
+        "name": "Pınar Organik Süt (1 L)",
+        "image": "https://ui-avatars.com/api/?name=P%C4%B1nar%20Organik%20S%C3%BCt%20%281%20L%29&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "85/100",
+            "saglik_yorumu": "Kalsiyum ve protein kaynağı, organik tarım standartlarında üretilmiş.",
+            "alerjenler": [
+                "Süt Proteini",
+                "Laktoz"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Organik İnek Sütü",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 60,
+                "karbonhidrat": 4.5,
+                "protein": 3.3,
+                "yag": 3.0,
+                "seker": 4.5
+            }
+        }
+    },
+    {
+        "id": "6",
+        "name": "Wasa Original Gevrek Ekmek",
+        "image": "https://ui-avatars.com/api/?name=Wasa%20Original%20Gevrek%20Ekmek&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "95/100",
+            "saglik_yorumu": "Tam tahıllı, ekstra yüksek lifli kompleks karbonhidrat kaynağı.",
+            "alerjenler": [
+                "Gluten"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Tam Çavdar Unu",
+                    "oran_yuzde": "73",
+                    "miktar_g": "73"
+                },
+                {
+                    "bilesen": "Çavdar Unu",
+                    "oran_yuzde": "20",
+                    "miktar_g": "20"
+                },
+                {
+                    "bilesen": "Maya",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 334,
+                "karbonhidrat": 61,
+                "protein": 9,
+                "yag": 1.5,
+                "seker": 1
+            }
+        }
+    },
+    {
+        "id": "7",
+        "name": "Activia Yoğurt (Meyveli)",
+        "image": "https://ui-avatars.com/api/?name=Activia%20Yo%C4%9Furt%20%28Meyveli%29&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "65/100",
+            "saglik_yorumu": "Probiyotik özellik taşımasına rağmen meyve püresindeki ilave şeker oranı yüksektir.",
+            "alerjenler": [
+                "Süt",
+                "Laktoz"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Pastörize İnek Sütü",
+                    "oran_yuzde": "70",
+                    "miktar_g": "70"
+                },
+                {
+                    "bilesen": "Çilek Püresi",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Şeker (İlave)",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Modifiye Nişasta (Kıvam Arttırıcı)",
+                    "oran_yuzde": "3",
+                    "miktar_g": "3"
+                },
+                {
+                    "bilesen": "Probiyotik Maya (Bifidobacterium lactis)",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 95,
+                "karbonhidrat": 12,
+                "protein": 3.5,
+                "yag": 2.5,
+                "seker": 11
+            }
+        }
+    },
+    {
+        "id": "8",
+        "name": "Eti Lifalif Yulaf Ezmesi",
+        "image": "https://ui-avatars.com/api/?name=Eti%20Lifalif%20Yulaf%20Ezmesi&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "100/100",
+            "saglik_yorumu": "Tamamen doğal, ilave şekersiz lif deposu.",
+            "alerjenler": [
+                "Gluten"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Tam Yulaf Ezmesi",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 356,
+                "karbonhidrat": 60,
+                "protein": 12.5,
+                "yag": 7,
+                "seker": 1.5
+            }
+        }
+    },
+    {
+        "id": "9",
+        "name": "Coca-Cola Zero Sugar",
+        "image": "https://ui-avatars.com/api/?name=Coca-Cola%20Zero%20Sugar&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "30/100",
+            "saglik_yorumu": "Kalori içermez ancak yoğun yapay tatlandırıcılar (Aspartam, Asesülfam K) barındırır.",
+            "alerjenler": [],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Su",
+                    "oran_yuzde": "98",
+                    "miktar_g": "98"
+                },
+                {
+                    "bilesen": "Karbondioksit (Asitliği Düzenleyici)",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Renklendirici (Karamel E150d)",
+                    "oran_yuzde": "0.5",
+                    "miktar_g": "0.5"
+                },
+                {
+                    "bilesen": "Tatlandırıcılar (Aspartam, Asesülfam K)",
+                    "oran_yuzde": "0.2",
+                    "miktar_g": "0.2"
+                },
+                {
+                    "bilesen": "Asitliği Düzenleyici (Fosforik Asit)",
+                    "oran_yuzde": "0.2",
+                    "miktar_g": "0.2"
+                },
+                {
+                    "bilesen": "Aroma Vericiler ve Kafein",
+                    "oran_yuzde": "0.1",
+                    "miktar_g": "0.1"
+                }
+            ],
+            "besinler": {
+                "kalori": 0,
+                "karbonhidrat": 0,
+                "protein": 0,
+                "yag": 0,
+                "seker": 0
+            }
+        }
+    },
+    {
+        "id": "10",
+        "name": "Kikkoman Soya Sosu",
+        "image": "https://ui-avatars.com/api/?name=Kikkoman%20Soya%20Sosu&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Soslar",
+            "saglik_puani": "50/100",
+            "saglik_yorumu": "Geleneksel fermantasyon, ancak sodyum (tuz) oranı aşırı yüksektir.",
+            "alerjenler": [
+                "Soya",
+                "Gluten"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Su",
+                    "oran_yuzde": "60",
+                    "miktar_g": "60"
+                },
+                {
+                    "bilesen": "Soya Fasulyesi",
+                    "oran_yuzde": "20",
+                    "miktar_g": "20"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Buğday (Gluten)",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                }
+            ],
+            "besinler": {
+                "kalori": 70,
+                "karbonhidrat": 6,
+                "protein": 9,
+                "yag": 0,
+                "seker": 1,
+                "tuz": 16.9
+            }
+        }
+    },
+    {
+        "id": "11",
+        "name": "Pınar Çikolatalı Süt",
+        "image": "https://ui-avatars.com/api/?name=P%C4%B1nar%20%C3%87ikolatal%C4%B1%20S%C3%BCt&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "60/100",
+            "saglik_yorumu": "Kalsiyum içerir fakat yüksek oranda rafine ilave şeker içerir.",
+            "alerjenler": [
+                "Süt",
+                "Laktoz"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "İnek Sütü",
+                    "oran_yuzde": "90",
+                    "miktar_g": "90"
+                },
+                {
+                    "bilesen": "Şeker (İlave)",
+                    "oran_yuzde": "7",
+                    "miktar_g": "7"
+                },
+                {
+                    "bilesen": "Kakao Tozu",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                },
+                {
+                    "bilesen": "Kıvam Arttırıcı (Karagenan)",
+                    "oran_yuzde": "0.5",
+                    "miktar_g": "0.5"
+                },
+                {
+                    "bilesen": "Aroma Verici (Vanilya)",
+                    "oran_yuzde": "0.5",
+                    "miktar_g": "0.5"
+                }
+            ],
+            "besinler": {
+                "kalori": 80,
+                "karbonhidrat": 11,
+                "protein": 3,
+                "yag": 2.5,
+                "seker": 10
+            }
+        }
+    },
+    {
+        "id": "12",
+        "name": "Lipton Ice Tea Şeftali",
+        "image": "https://ui-avatars.com/api/?name=Lipton%20Ice%20Tea%20%C5%9Eeftali&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "40/100",
+            "saglik_yorumu": "Çay ekstraktı düşük, şeker oranı yüksektir.",
+            "alerjenler": [],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Su",
+                    "oran_yuzde": "90",
+                    "miktar_g": "90"
+                },
+                {
+                    "bilesen": "Şeker",
+                    "oran_yuzde": "8",
+                    "miktar_g": "8"
+                },
+                {
+                    "bilesen": "Siyah Çay Ekstraktı",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Şeftali Suyu Konsantresi",
+                    "oran_yuzde": "0.5",
+                    "miktar_g": "0.5"
+                },
+                {
+                    "bilesen": "Asitliği Düzenleyici (Sitrik Asit)",
+                    "oran_yuzde": "0.3",
+                    "miktar_g": "0.3"
+                },
+                {
+                    "bilesen": "Aroma Vericiler",
+                    "oran_yuzde": "0.2",
+                    "miktar_g": "0.2"
+                }
+            ],
+            "besinler": {
+                "kalori": 30,
+                "karbonhidrat": 7,
+                "protein": 0,
+                "yag": 0,
+                "seker": 7
+            }
+        }
+    },
+    {
+        "id": "13",
+        "name": "Lay's Klasik Patates Cipsi",
+        "image": "https://ui-avatars.com/api/?name=Lay%27s%20Klasik%20Patates%20Cipsi&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "20/100",
+            "saglik_yorumu": "Derin yağda kızartılmış, yüksek tuzlu, kalori yoğunluğu aşırı.",
+            "alerjenler": [],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Patates",
+                    "oran_yuzde": "62",
+                    "miktar_g": "62"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Palm ve Ayçiçek)",
+                    "oran_yuzde": "35",
+                    "miktar_g": "35"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "3",
+                    "miktar_g": "3"
+                }
+            ],
+            "besinler": {
+                "kalori": 530,
+                "karbonhidrat": 52,
+                "protein": 6,
+                "yag": 33,
+                "seker": 0.5,
+                "tuz": 1.5
+            }
+        }
+    },
+    {
+        "id": "14",
+        "name": "Biskrem Kakaolu Krema Dolgulu",
+        "image": "https://ui-avatars.com/api/?name=Biskrem%20Kakaolu%20Krema%20Dolgulu&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "25/100",
+            "saglik_yorumu": "Yüksek şeker, koruyucular ve rafine un içerir.",
+            "alerjenler": [
+                "Gluten",
+                "Süt",
+                "Yumurta",
+                "Fındık Eser Miktarda"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Buğday Unu",
+                    "oran_yuzde": "40",
+                    "miktar_g": "40"
+                },
+                {
+                    "bilesen": "Kakaolu Krema (%30)",
+                    "oran_yuzde": "30",
+                    "miktar_g": "30"
+                },
+                {
+                    "bilesen": "Şeker",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Palm)",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Yumurta Tozu",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                },
+                {
+                    "bilesen": "Süttozu",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Kabartıcılar (Sodyum Bikarbonat)",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Tuz ve Aroma Vericiler",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                }
+            ],
+            "besinler": {
+                "kalori": 490,
+                "karbonhidrat": 64,
+                "protein": 5,
+                "yag": 23,
+                "seker": 35
+            }
+        }
+    },
+    {
+        "id": "15",
+        "name": "Peyman Çiğ Badem İçi",
+        "image": "https://ui-avatars.com/api/?name=Peyman%20%C3%87i%C4%9F%20Badem%20%C4%B0%C3%A7i&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "95/100",
+            "saglik_yorumu": "Kalp dostu doymamış yağ asitleri ve magnezyum kaynağı.",
+            "alerjenler": [
+                "Kuruyemiş (Badem)"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Çiğ Badem",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 579,
+                "karbonhidrat": 21,
+                "protein": 21,
+                "yag": 49,
+                "seker": 4
+            }
+        }
+    },
+    {
+        "id": "16",
+        "name": "Doğuş Papatya Çayı",
+        "image": "https://ui-avatars.com/api/?name=Do%C4%9Fu%C5%9F%20Papatya%20%C3%87ay%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "100/100",
+            "saglik_yorumu": "Saf ve doğal bitki çayı.",
+            "alerjenler": [],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Kurutulmuş Papatya Çiçeği",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 0,
+                "karbonhidrat": 0,
+                "protein": 0,
+                "yag": 0,
+                "seker": 0
+            }
+        }
+    },
+    {
+        "id": "17",
+        "name": "Torku Tam Yağlı Süt",
+        "image": "https://ui-avatars.com/api/?name=Torku%20Tam%20Ya%C4%9Fl%C4%B1%20S%C3%BCt&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "85/100",
+            "saglik_yorumu": "UHT sterilize edilmiş tam yağlı doğal süt.",
+            "alerjenler": [
+                "Süt",
+                "Laktoz"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Tam Yağlı İnek Sütü",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 61,
+                "karbonhidrat": 4.5,
+                "protein": 3.2,
+                "yag": 3.3,
+                "seker": 4.5
+            }
+        }
+    },
+    {
+        "id": "18",
+        "name": "Tadım Karışık Kuruyemiş",
+        "image": "https://ui-avatars.com/api/?name=Tad%C4%B1m%20Kar%C4%B1%C5%9F%C4%B1k%20Kuruyemi%C5%9F&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "75/100",
+            "saglik_yorumu": "Besleyici ancak kavrulma işlemi ve eklenmiş tuzdan dolayı dikkatli tüketilmelidir.",
+            "alerjenler": [
+                "Kuruyemiş",
+                "Yer Fıstığı"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Kavrulmuş Yer Fıstığı",
+                    "oran_yuzde": "40",
+                    "miktar_g": "40"
+                },
+                {
+                    "bilesen": "Kavrulmuş Fındık",
+                    "oran_yuzde": "30",
+                    "miktar_g": "30"
+                },
+                {
+                    "bilesen": "Kavrulmuş Badem",
+                    "oran_yuzde": "20",
+                    "miktar_g": "20"
+                },
+                {
+                    "bilesen": "Kavrulmuş Kaju Fıstığı",
+                    "oran_yuzde": "8",
+                    "miktar_g": "8"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 550,
+                "karbonhidrat": 18,
+                "protein": 22,
+                "yag": 45,
+                "seker": 4
+            }
+        }
+    },
+    {
+        "id": "19",
+        "name": "Knorr Çabuk Mercimek Çorbası",
+        "image": "https://ui-avatars.com/api/?name=Knorr%20%C3%87abuk%20Mercimek%20%C3%87orbas%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Hazır Yemek",
+            "saglik_puani": "45/100",
+            "saglik_yorumu": "Yüksek sodyum, MSG (Aroma Arttırıcı) ve yapay koruyucular içerir.",
+            "alerjenler": [
+                "Gluten",
+                "Kereviz",
+                "Soya İzleri"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Kırmızı Mercimek Unu",
+                    "oran_yuzde": "40",
+                    "miktar_g": "40"
+                },
+                {
+                    "bilesen": "Buğday Unu",
+                    "oran_yuzde": "25",
+                    "miktar_g": "25"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Şeker",
+                    "oran_yuzde": "8",
+                    "miktar_g": "8"
+                },
+                {
+                    "bilesen": "Aroma Arttırıcılar (Monosodyum Glutamat)",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Kurutulmuş Sebzeler (Soğan, Sarımsak)",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Baharat Karışımı (Kimyon, Nane)",
+                    "oran_yuzde": "4",
+                    "miktar_g": "4"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Palm)",
+                    "oran_yuzde": "3",
+                    "miktar_g": "3"
+                }
+            ],
+            "besinler": {
+                "kalori": 35,
+                "karbonhidrat": 55,
+                "protein": 15,
+                "yag": 4,
+                "seker": 8,
+                "tuz": 12
+            }
+        }
+    },
+    {
+        "id": "20",
+        "name": "SuperFresh Pizza Tost",
+        "image": "https://ui-avatars.com/api/?name=SuperFresh%20Pizza%20Tost&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Hazır Yemek",
+            "saglik_puani": "25/100",
+            "saglik_yorumu": "Dondurulmuş ultra-işlenmiş gıda. Yüksek sodyum ve doymuş yağ içerir.",
+            "alerjenler": [
+                "Gluten",
+                "Süt",
+                "Soya",
+                "Hardal"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Buğday Unu (Hamur)",
+                    "oran_yuzde": "45",
+                    "miktar_g": "45"
+                },
+                {
+                    "bilesen": "Kaşar Peyniri (Süt Ürünü)",
+                    "oran_yuzde": "20",
+                    "miktar_g": "20"
+                },
+                {
+                    "bilesen": "Dana Sucuk ve Sosis Karışımı",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Domates Salçası",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Margarin, Palm)",
+                    "oran_yuzde": "7",
+                    "miktar_g": "7"
+                },
+                {
+                    "bilesen": "Tuz ve Şeker",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                },
+                {
+                    "bilesen": "Koruyucular (E250 Sodyum Nitrit)",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                }
+            ],
+            "besinler": {
+                "kalori": 280,
+                "karbonhidrat": 35,
+                "protein": 12,
+                "yag": 14,
+                "seker": 4
+            }
+        }
+    },
+    {
+        "id": "21",
+        "name": "Nestle Nesfit Tam Tahıllı",
+        "image": "https://ui-avatars.com/api/?name=Nestle%20Nesfit%20Tam%20Tah%C4%B1ll%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "70/100",
+            "saglik_yorumu": "Vitamin ilaveli tam tahıl ürünü ancak dikkat çekici miktarda şeker ilavesi mevcut.",
+            "alerjenler": [
+                "Gluten"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Tam Buğday (%50)",
+                    "oran_yuzde": "50",
+                    "miktar_g": "50"
+                },
+                {
+                    "bilesen": "Pirinç",
+                    "oran_yuzde": "28",
+                    "miktar_g": "28"
+                },
+                {
+                    "bilesen": "Şeker",
+                    "oran_yuzde": "15",
+                    "miktar_g": "15"
+                },
+                {
+                    "bilesen": "Arpa Maltı Ekstresi",
+                    "oran_yuzde": "4",
+                    "miktar_g": "4"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "1",
+                    "miktar_g": "1"
+                },
+                {
+                    "bilesen": "Vitamin ve Mineraller (Demir, B Vitamini Kompleksi)",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 365,
+                "karbonhidrat": 76,
+                "protein": 8,
+                "yag": 1.5,
+                "seker": 16
+            }
+        }
+    },
+    {
+        "id": "22",
+        "name": "Sırma Doğal Maden Suyu",
+        "image": "https://ui-avatars.com/api/?name=S%C4%B1rma%20Do%C4%9Fal%20Maden%20Suyu&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "İçecek",
+            "saglik_puani": "100/100",
+            "saglik_yorumu": "Yeraltı kaynaklı, mineral (Magnezyum, Kalsiyum) açısından zengin.",
+            "alerjenler": [],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Doğal Mineralli Yeraltı Suyu",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 0,
+                "karbonhidrat": 0,
+                "protein": 0,
+                "yag": 0,
+                "seker": 0
+            }
+        }
+    },
+    {
+        "id": "23",
+        "name": "Balparmak Çiçek Balı",
+        "image": "https://ui-avatars.com/api/?name=Balparmak%20%C3%87i%C3%A7ek%20Bal%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "85/100",
+            "saglik_yorumu": "Doğal enerji kaynağı, %100 süzme çiçek balı. Diyabet hastaları için riskli.",
+            "alerjenler": [
+                "Polen (Hassasiyeti olanlar için)"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Süzme Çiçek Balı",
+                    "oran_yuzde": "100",
+                    "miktar_g": "100"
+                }
+            ],
+            "besinler": {
+                "kalori": 304,
+                "karbonhidrat": 82,
+                "protein": 0.3,
+                "yag": 0,
+                "seker": 82
+            }
+        }
+    },
+    {
+        "id": "24",
+        "name": "Eti Form Tam Çavdarlı",
+        "image": "https://ui-avatars.com/api/?name=Eti%20Form%20Tam%20%C3%87avdarl%C4%B1&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Atıştırmalık",
+            "saglik_puani": "80/100",
+            "saglik_yorumu": "Diyet lifi açısından zengin, form koruyucu alternatif.",
+            "alerjenler": [
+                "Gluten"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Çavdar Unu",
+                    "oran_yuzde": "45",
+                    "miktar_g": "45"
+                },
+                {
+                    "bilesen": "Tam Buğday Unu",
+                    "oran_yuzde": "35",
+                    "miktar_g": "35"
+                },
+                {
+                    "bilesen": "Bitkisel Yağ (Ayçiçek)",
+                    "oran_yuzde": "10",
+                    "miktar_g": "10"
+                },
+                {
+                    "bilesen": "Malt Ekstraktı",
+                    "oran_yuzde": "5",
+                    "miktar_g": "5"
+                },
+                {
+                    "bilesen": "Tuz",
+                    "oran_yuzde": "3",
+                    "miktar_g": "3"
+                },
+                {
+                    "bilesen": "Kabartıcılar",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 360,
+                "karbonhidrat": 63,
+                "protein": 10,
+                "yag": 6,
+                "seker": 3
+            }
+        }
+    },
+    {
+        "id": "25",
+        "name": "Pınar Labne Peyniri",
+        "image": "https://ui-avatars.com/api/?name=P%C4%B1nar%20Labne%20Peyniri&background=2ecc71&color=fff&size=400&bold=true&font-size=0.33",
+        "data": {
+            "kategori": "Kahvaltılık",
+            "saglik_puani": "75/100",
+            "saglik_yorumu": "Yüksek kaliteli protein içerir, ancak doymuş yağ oranı dikkate alınmalıdır.",
+            "alerjenler": [
+                "Süt",
+                "Laktoz"
+            ],
+            "icerikler_tablosu": [
+                {
+                    "bilesen": "Pastörize İnek Sütü",
+                    "oran_yuzde": "80",
+                    "miktar_g": "80"
+                },
+                {
+                    "bilesen": "Süt Kreması",
+                    "oran_yuzde": "18",
+                    "miktar_g": "18"
+                },
+                {
+                    "bilesen": "Peynir Kültürü ve Tuz",
+                    "oran_yuzde": "2",
+                    "miktar_g": "2"
+                }
+            ],
+            "besinler": {
+                "kalori": 200,
+                "karbonhidrat": 3.5,
+                "protein": 4.5,
+                "yag": 18,
+                "seker": 3.5
+            }
+        }
+    }
+]

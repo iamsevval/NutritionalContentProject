@@ -1,0 +1,53 @@
+{
+    "Diyabet": {
+        "kesinlikle_yasakli": [
+            "glikoz şurubu", 
+            "fruktoz şurubu", 
+            "invert şeker", 
+            "yüksek fruktozlu mısır şurubu",
+            "aspartam"
+        ],
+        "tolerans_siniri": {
+            "Şeker (g)": 5.0
+        },
+        "uyari_mesaji": "Diyabet hastaları için üründeki şeker miktarı sınırların üzerindedir. Gizli şeker kaynaklarına dikkat edilmelidir."
+    },
+    "Tansiyon": {
+        "kesinlikle_yasakli": [
+            "monosodyum glutamat", 
+            "msg", 
+            "sodyum benzoat",
+            "sodyum nitrit"
+        ],
+        "tolerans_siniri": {
+            "Tuz (g)": 1.5,
+            "Sodyum (g)": 0.6
+        },
+        "uyari_mesaji": "Tansiyon hastaları için üründeki tuz/sodyum miktarı yüksektir."
+    },
+    "Çölyak": {
+        "kesinlikle_yasakli": [
+            "buğday unu", 
+            "tam buğday unu", 
+            "arpa", 
+            "yulaf",
+            "malt",
+            "irmik",
+            "bulgur"
+        ],
+        "tolerans_siniri": {},
+        "uyari_mesaji": "Çölyak hastaları için kesinlikle gluten içeren maddeler barındırmaktadır!"
+    },
+    "İrritabl Bağırsak Sendromu (IBS)": {
+        "kesinlikle_yasakli": [
+            "sorbitol", 
+            "mannitol", 
+            "ksilitol",
+            "inülin",
+            "sarımsak tozu",
+            "soğan tozu"
+        ],
+        "tolerans_siniri": {},
+        "uyari_mesaji": "IBS hastaları için FODMAP diyeti açısından riskli bileşenler (şeker alkolleri veya fermente edilebilir karbonhidratlar) içermektedir."
+    }
+}
