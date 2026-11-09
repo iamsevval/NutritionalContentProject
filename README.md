@@ -7,7 +7,7 @@
 [![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini%20AI-8E75C2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/JaidedAI/EasyOCR)
 
-> **TÜBİTAK 2209-A** Üniversite Öğrencileri Araştırma Projeleri kapsamında geliştirilmekte olan, yapay zekâ ve optik karakter tanıma (OCR) destekli akıllı besin içeriği ve alerjen tespit platformu.
+> Yapay zekâ ve optik karakter tanıma (OCR) destekli akıllı besin içeriği ve alerjen tespit platformu.
 
 ---
 
@@ -125,5 +125,5 @@ flutter run
 
 ---
 
-## 📄 Lisans & Destek
-Bu proje TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı kapsamında geliştirilmektedir. Tüm hakları saklıdır.
+## 📄 Lisans
+Bu proje geliştirme aşamasındadır. Tüm hakları saklıdır.
